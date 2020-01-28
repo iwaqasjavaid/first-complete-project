@@ -1,0 +1,109 @@
+ /* change brand name font */
+.navbar-brand{
+font-family:"Ubuntu", sans-serif;
+font-size: 2em;
+font-weight: bold;
+}
+
+ /* change navigation color */
+
+.navbar #myMenu .custom-nav .nav-item {
+font-family:"Ubuntu", sans-serif;
+color: #fff;
+ }
+
+a{
+font-family:"Ubuntu", sans-serif;
+color: #fff;
+}
+
+
+
+
+ /* .navbar #myMenu .custom-nav .nav-item a:hover{
+
+ color: pink;
+ } */
+
+
+/*  cannot give image as this use inline style css  .jumbotron {
+
+background-image: url('images/Banner1.jpg');
+
+}
+ */
+
+
+.back-image {
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat;
+min-height: 90vh;
+border-radius: 0px;
+margin-top: 74px;
+}
+
+
+/* margin for my first project wala k liye  */
+.mh{
+margin-top: 50px;
+}
+
+
+
+/* media quey mtlb sirf mbl per chota ho kr center per login wala aye not on full screen*/
+
+@media only screen and (max-width: 600px){
+
+.myclass{
+
+	margin-top: 300px;
+   text-align: center;
+
+}
+
+}
+
+
+
+.fi-color
+{
+
+	color: #e994a2;
+}
+
+
+
+
+.fi-color:hover
+{
+
+	color: #dc3545;
+}
+
+
+
+
+a{
+
+color: black;
+
+}
+
+
+/* .active{
+background-color: #dc3545;
+color: white;
+
+} */
+
+
+
+
+a:hover{
+
+color: #f26571;
+
+}
+
+

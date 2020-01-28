@@ -1,0 +1,22 @@
+/* Style the buttons */
+
+
+/* li {
+  border: none;
+  outline: none;
+  padding: 10px 13px;
+  cursor: pointer;
+}
+
+Style the active class (and buttons on mouse-over)
+.active, li:hover {
+  background-color: #666;
+  color: white;
+}
+
+ */
+
+.active{
+
+	background-color: #dc3545;
+}
